@@ -1,7 +1,8 @@
 # Mechanical-Component-Recreation_CAD-Portfolio
-This repository contains mechanical components recreated in Autodesk Inventor Pro
-from engineering schematics for CAD skill development and portfolio demonstration.
+This repository contains mechanical components recreated from engineering
+schematics using Autodesk Inventor Pro.
 
-Includes:
-- Standard mechanical components and fasteners
-- Parametric servo mounts and attachment interfaces
+Categories:
+- Standard Mechanical Components: common hardware and machine elements
+- Servo Interface Components: mounts, horns, and adapters designed to
+  interface with RC-style servos
